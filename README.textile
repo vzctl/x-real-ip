@@ -1,0 +1,12 @@
+h1. XRealIP
+
+XRealIP is a simple plugin for Ruby on Rails framework. It replaces remote_ip with ip address from HTTP_X_REAL_IP header (if exists).
+
+h2. Notes
+
+* It does not change remote_ip if there is no such http-header.
+
+h2. Support & getting help
+
+For getting help or discussing, you can join #support on the irc.realisticgroup.com or email to lex.public@gmail.com.
+
